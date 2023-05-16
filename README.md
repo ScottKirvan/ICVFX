@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/Pasted%20image%2020230516103711.png"alt="logo" width="256" height="auto" />
+<div align="center"><img src="assets/Pasted%20image%2020230516103711.png"alt="logo" width="256" height="auto" /><br>
 ICVFX for Indie filmmakers using Unreal Engine<br>
 Notes and resources from the 5/16/2023 Seattle Unreal Users Group meetup
 </div> 
