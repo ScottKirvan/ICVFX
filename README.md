@@ -4,6 +4,9 @@ ICVFX for Indie filmmakers using Unreal Engine<br>
 Notes and resources from the 5/16/2023 Seattle Unreal Users Group meetup
 </div> 
 
+![Pasted image 20230516103711](assets/Pasted%20image%2020230516103711.png){ width=60%,height:30px }
+
+
 ###  Scott's Workflow plugins:
 - [Scooter Utils](https://github.com/ScottKirvan/ScooterUtils) 
 - [UE QuickLaunch](https://github.com/ScottKirvan/UE_QuickLaunch)
