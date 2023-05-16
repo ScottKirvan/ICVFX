@@ -1,8 +1,7 @@
 
-![](assets/Pasted%20image%2020230516103711.png)
 <div align="center">
-ICVFX for Indie filmmakers using Unreal Engine<br>
-Notes and resources from the 5/16/2023 Seattle Unreal Users Group meetup
+<h1>ICVFX for Indie filmmakers using Unreal Engine</h1><br>
+<h3>Notes and resources from the 5/16/2023 Seattle Unreal Users Group meetup</h3>
 </div> 
 
 ###  Scott's Workflow plugins:
