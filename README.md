@@ -2,9 +2,11 @@
 &lt;img src="https://raw.githubusercontent.com/ScottKirvan/ICVFX/main/assets/Pasted%20image%2020230516103711.png"alt="logo" width="256" height="auto" /><br>
 ICVFX for Indie filmmakers using Unreal Engine<br>
 Notes and resources from the 5/16/2023 Seattle Unreal Users Group meetup
+![](assets/Pasted%20image%2020230516103711.png)
+
 </div> 
 
-![Pasted image 20230516103711](assets/Pasted%20image%2020230516103711.png){ width=60%,height:30px }
+![](assets/Pasted%20image%2020230516103711.png)
 
 
 ###  Scott's Workflow plugins:
