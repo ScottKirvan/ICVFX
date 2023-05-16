@@ -21,5 +21,5 @@ Tutorials:
 
 ![](assets/colorful-qr-code.png)
 <div align="center">
-<h1> https://www.scottkirvan.com/ICVFX/ </h1>
+<h1> <a href="https://www.scottkirvan.com/ICVFX">www.ScottKirvan.com/ICVFX</a> </h1>
 </div>
