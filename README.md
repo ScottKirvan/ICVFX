@@ -10,7 +10,7 @@
 
 ### Required Equipment
 - Computer: capable of running Unreal Engine.
-- Camera: any camera that can record video from will do.
+- Camera: any camera that can record video will do.
 - iPhone: used as a tracking source and attached to the camera.
 - Network: you need the iPhone and the Computer connected to the same network so they can communicate.
 - Display: This is the display/TV/monitor/projector/LED Wall/etc. that you will be projecting to and filming with your camera.  Your computer monitor will work for this and may be all you need to "tell your story" on film.  This setup will work with multiple Displays too.
