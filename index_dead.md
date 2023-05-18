@@ -25,7 +25,7 @@ here's *some* **more** _test_  `markdown`  [Outline](docs/Outline.md)
 
 ### Required Unreal Project Plugins:
 - Static Mesh Editor Modeling Mode (enabled by default in UE5+)
-- nDisplay
+- nDisplay (enabling nDisplay automatically enables the LiveLink plugin too)
 - Switchboard
 
 ### Outline
