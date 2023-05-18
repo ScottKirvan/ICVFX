@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>ICVFX for Indie filmmakers using Unreal Engine</h1>
+<h1>In-Camera VFX for Indie filmmakers using Unreal Engine</h1>
 <h3>Notes and resources from the 5/16/2023 Seattle Unreal Users Group meetup</h3>
 </div> 
 
@@ -28,12 +28,10 @@ The basic outline of the demo went like this:
 
 ### Tutorials:
 - YouTube - TBD
-- will be here an on https://dev.epicgames.com/community/ - TBD
+- text version will be here and on https://dev.epicgames.com/community/ - TBD
 
 
-![](assets/colorful-qr-code.png)
-<div align="center">
-<h1> <a href="https://www.scottkirvan.com/ICVFX">www.ScottKirvan.com/ICVFX</a> 
-</h1>
-<h1> email:  icvfx@skvfx.com</h1>
-</div>
+### Resources
+- [Unreal Engine 4.27 In-Camera VFX Tutrials](https://www.youtube.com/playlist?list=PLZlv_N0_O1gaXvxPtn8_THYN_Awx-VYeu)
+- [www.ScottKirvan.com/ICVFX](https://www.scottkirvan.com/ICVFX)
+- Contact me:  icvfx@skvfx.com
