@@ -5,8 +5,8 @@
 </div> 
 
 ###  Scott's Workflow plugins (optional):
-- [Scooter Utils](https://github.com/ScottKirvan/ScooterUtils) - used to change font size for demo and for quick restarts of the editor
-- [UE QuickLaunch](https://github.com/ScottKirvan/UE_QuickLaunch) - right-click context menu for launching unreal without the Epic Games Launcher
+- [Scooter Utils](https://github.com/ScottKirvan/ScooterUtils) - Unreal plugin used to change editor font-size for readability and for quick restarts of the editor.
+- [UE QuickLaunch](https://github.com/ScottKirvan/UE_QuickLaunch) - right-click context menu for launching unreal without the Epic Games Launcher.
 
 ### Required Equipment
 - Computer: capable of running Unreal Engine.
