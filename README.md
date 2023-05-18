@@ -22,8 +22,8 @@
 
 ### Outline
 The basic outline of the demo went like this:
-1. Collect IRL Data  (written on the whiteboard).
-3. Reconstruct our IRL display screen in unreal.
+1. Collect IRL (In Real Life) Data  (written on the whiteboard).
+3. Reconstruct our IRL display screen in Unreal.
 4. Add CineCamera Actor and set it up to match your IRL camera.
 5. Set up Livelink & connect the iPhone using Unreal Remote 2.
 6. Configure nDisplay - add VP (Viewport) node, add static mesh screen, and add camera.
