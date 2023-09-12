@@ -12,7 +12,6 @@ body {
     color: rgb(240, 243, 246);
     color-scheme: dark;
     display: block;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     font-size: 14px;
     height: 2904.18px;
     line-height: 21px;
@@ -22,6 +21,7 @@ body {
     padding-right: 32px;
     padding-top: 16px;
     /* width: 893.785px; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
 .MainBody {
@@ -38,11 +38,11 @@ h1 {
     padding-bottom: 0.3em;
     font-size: 2em;
     border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    margin: 0.67em 0;
     margin-top: 24px;
     margin-bottom: 16px;
     font-weight: var(--base-text-weight-semibold, 600);
     line-height: 1.25;
-    margin: 0.67em 0;
     box-sizing: border-box;
 }
 
