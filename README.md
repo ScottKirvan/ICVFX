@@ -1,4 +1,3 @@
-<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +6,6 @@
     <title>Your Project Title</title>
     <link rel="stylesheet" href="styles.css">
 </head>
--->
 <body>
 
 <div align="center">
@@ -104,6 +102,4 @@ Process Outline:
 - Contact me:  icvfx@skvfx.com
 
 </body>
-<!--
 </html>
--->
