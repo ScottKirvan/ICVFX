@@ -1,5 +1,0 @@
-markdown: kramdown
-kramdown:
-  input: GFM
-README.md: # Replace with your Markdown file's name
-  output: true
