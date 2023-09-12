@@ -170,7 +170,31 @@ h6 {
     text-size-adjust: 100%;
 }
 
-code {}
+code {
+    background-color: rgba(158, 167, 179, 0.4);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    color-scheme: dark;
+    display: inline;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    font-size: 13.6px;
+    height: auto;
+    line-height: 20.4px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 2.72px;
+    padding-left: 5.44px;
+    padding-right: 5.44px;
+    padding-top: 2.72px;
+    text-wrap: wrap;
+    white-space-collapse: break-spaces;
+}
 
 p {}
 
