@@ -1,19 +1,3 @@
----
-layout: default
----
-
-<!--
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Project Title</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
--->
-
 <div align="center">
 <h1>In-Camera VFX for Indie filmmakers using Unreal Engine</h1>
 <h3>An intro using just an iPhone, a Camera, and Unreal Engine</h3>
@@ -106,8 +90,3 @@ Process Outline:
 - [This info on GitHub](https://github.com/ScottKirvan/ICVFX)
 - [www.ScottKirvan.com/ICVFX](https://www.scottkirvan.com/ICVFX)
 - Contact me:  icvfx@skvfx.com
-
-<!--
-</body>
-</html>
--->
