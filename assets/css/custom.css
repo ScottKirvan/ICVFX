@@ -185,6 +185,10 @@ a {
 
 img {
     max-width: 100%;
+    box-sizing: content-box;
+    border-style: none;
+    overflow-clip-margin: content-box;
+    overflow: clip;
 
 }
 
