@@ -39,6 +39,13 @@ body {
     padding-top: 16px;
 }
 
+.footer {
+    margin-top 40px;
+    padding-bottom 8px;
+    padding-top 40px;
+    position relative;
+}
+
 h1 {
     padding-bottom: 0.3em;
     font-size: 2em;
