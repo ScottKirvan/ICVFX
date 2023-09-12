@@ -170,7 +170,19 @@ h6 {
     text-size-adjust: 100%;
 }
 
-code {}
+code {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    white-space: break-spaces;
+    background-color: var(--bgColor-neutral-muted, var(--color-neutral-muted));
+    border-radius: 6px;
+    font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+    box-sizing: border-box;
+    line-height: 1.5;
+    word-wrap: break-word;
+
+}
 
 p {}
 
