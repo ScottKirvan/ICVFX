@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 <div align="center">
 <h1>In-Camera VFX for Indie filmmakers using Unreal Engine</h1>
