@@ -25,6 +25,7 @@ body {
 }
 
 .MainBody {
+    width: 80%;
     border: 1px solid white;
     margin: 0 auto;
     /* This centers the MainBody element horizontally */
