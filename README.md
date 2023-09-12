@@ -1,12 +1,13 @@
 ---
 ---
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Project Title</title>
-    <!--<link rel="stylesheet" href="styles.css">-->
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -14,6 +15,7 @@
 <h1>In-Camera VFX for Indie filmmakers using Unreal Engine</h1>
 <h3>An intro using just an iPhone, a Camera, and Unreal Engine</h3>
 </div> 
+-->
 
 [![Watch the video](https://img.youtube.com/vi/mN2ceH0vu3M/maxresdefault.jpg)](https://youtu.be/mN2ceH0vu3M)
 
@@ -103,5 +105,7 @@ Process Outline:
 - [www.ScottKirvan.com/ICVFX](https://www.scottkirvan.com/ICVFX)
 - Contact me:  icvfx@skvfx.com
 
+<!--
 </body>
 </html>
+-->
