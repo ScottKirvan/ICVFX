@@ -175,7 +175,11 @@ code {
 
 p {}
 
-a {}
+a {
+    color: var(--fgColor-accent, var(--color-accent-fg));
+    text-decoration: none;
+
+}
 
 img {}
 
