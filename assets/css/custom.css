@@ -177,23 +177,22 @@ code {
 p {}
 
 a {
-    color: var(--fgColor-accent, var(--color-accent-fg));
-    text-decoration: none;
-    background-color: transparent;
-    cursor: pointer;
+    color: rgb(113, 183, 255;
+            text-decoration: none;
+            background-color: transparent;
+            cursor: pointer;
+    }
 
-}
+    img {}
 
-img {}
+    ul {}
 
-ul {}
+    ol {}
 
-ol {}
+    li {}
 
-li {}
+    span {}
 
-span {}
+    div {}
 
-div {}
-
-table {}
+    table {}
