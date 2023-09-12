@@ -37,7 +37,8 @@ body {
 h1 {
     padding-bottom: 0.3em;
     font-size: 2em;
-    border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    border-bottom: 1px solid;
+    border-bottom-color: rgb(122, 130, 142);
     margin: 0.67em 0;
     margin-top: 24px;
     margin-bottom: 16px;
