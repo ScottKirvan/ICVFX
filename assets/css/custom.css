@@ -24,8 +24,8 @@ body {
     width: 893.785px;
 }
 
-div.MainBody {
-    background-color: rgb(255, 12, 16);
+.MainBody {
+    background-color: red;
 }
 
 h3 {
