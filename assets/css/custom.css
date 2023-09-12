@@ -27,10 +27,10 @@ body {
 .MainBody {
     width: 80%;
     border: 1px solid white;
-    margin: 0 auto;
     /* This centers the MainBody element horizontally */
-    /* text-align: left;*/
+    margin: 0 auto;
     /* This aligns the text to the left within the centered div */
+    /* text-align: left;*/
 }
 
 h3 {
