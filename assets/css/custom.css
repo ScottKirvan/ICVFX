@@ -24,6 +24,10 @@ body {
     width: 893.785px;
 }
 
+MainBody {
+    background-color: rgb(255, 12, 16);
+}
+
 h3 {
     color: red;
 }
