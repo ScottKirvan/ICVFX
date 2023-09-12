@@ -175,7 +175,8 @@ code {
     margin: 0;
     font-size: 85%;
     white-space: break-saces;
-    background-color: rgba(158, 167, 179, 0.4) border-radius: 6px;
+    background-color: rgba(158, 167, 179, 0.4);
+    border-radius: 6px;
     font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
     box-sizing: border-box;
     line-height: 1.5;
