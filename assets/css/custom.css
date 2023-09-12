@@ -33,6 +33,10 @@ body {
     /* This aligns the text to the left within the centered div */
     text-align: left;
     border-radius: 6px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 16px;
 }
 
 h1 {
