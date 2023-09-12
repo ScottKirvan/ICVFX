@@ -26,6 +26,7 @@ body {
 
 .MainBody {
     background-color: red;
+    box-sizing: border-box;
 }
 
 h3 {
