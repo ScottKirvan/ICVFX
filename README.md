@@ -7,8 +7,8 @@
     <title>Your Project Title</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
 -->
+<body>
 
 <div align="center">
 <h1>In-Camera VFX for Indie filmmakers using Unreal Engine</h1>
@@ -103,7 +103,7 @@ Process Outline:
 - [www.ScottKirvan.com/ICVFX](https://www.scottkirvan.com/ICVFX)
 - Contact me:  icvfx@skvfx.com
 
-<!--
 </body>
+<!--
 </html>
 -->
