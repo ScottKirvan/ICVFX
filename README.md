@@ -3,24 +3,6 @@
 <h2>An intro using just an iPhone, a Camera, and Unreal Engine</h2>
 </div> 
 
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-`blah`
-
-
-
-
-
 [![Watch the video](https://img.youtube.com/vi/mN2ceH0vu3M/maxresdefault.jpg)](https://youtu.be/mN2ceH0vu3M)
 
 **Unreal and ICVFX (In-Camera VFX) with Scott Kirvan** : Getting into Virtual Production without an LED Volume in UE5 
