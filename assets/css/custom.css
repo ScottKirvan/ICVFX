@@ -42,6 +42,8 @@ h1 {
     margin-bottom: 16px;
     font-weight: var(--base-text-weight-semibold, 600);
     line-height: 1.25;
+    margin: 0.67em 0;
+    box-sizing: border-box;
 }
 
 
