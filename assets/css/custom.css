@@ -14,7 +14,7 @@ body {
     display: block;
     font-size: 16px;
     height: 2904.18px;
-    line-height: 21px;
+    line-height: 1.5;
     margin-bottom: -1px;
     padding-bottom: 32px;
     padding-left: 32px;
@@ -22,6 +22,7 @@ body {
     padding-top: 16px;
     /* width: 893.785px; */
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    word-wrap: break-word;
 }
 
 .MainBody {
