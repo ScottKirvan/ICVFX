@@ -12,7 +12,7 @@ body {
     color: rgb(240, 243, 246);
     color-scheme: dark;
     display: block;
-    font-size: 14px;
+    font-size: 16px;
     height: 2904.18px;
     line-height: 21px;
     margin-bottom: -1px;
@@ -178,6 +178,8 @@ p {}
 a {
     color: var(--fgColor-accent, var(--color-accent-fg));
     text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
 
 }
 
